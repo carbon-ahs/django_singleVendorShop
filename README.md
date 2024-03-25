@@ -1,11 +1,11 @@
-# Django Boilerplate Project
+# Django Single vendor API project
 
 ## Introduction
-This is a boilerplate Django project that serves as a foundation for building web applications using Django, a high-level Python web framework. It is pre-configured with some basic settings, file structure, and dependencies to help you kickstart your project development.
+<!-- This is a boilerplate Django project that serves as a foundation for building web applications using Django, a high-level Python web framework. It is pre-configured with some basic settings, file structure, and dependencies to help you kickstart your project development. -->
 
 ## Features
 - Django version: 4.0
-- Python version: 3.8
+- Python version: 3.11.0
 - Pre-configured settings for development and production environments.
 - Basic file structure including:
   - `django_project/`: Directory for your Django applications.
@@ -17,8 +17,8 @@ This is a boilerplate Django project that serves as a foundation for building we
 - README file to help you get started.
 
 ## Setup Instructions
-1. Clone this repository: `git clone https://github.com/carbon-ahs/django_placeholderProject.git`
-2. Navigate to the project directory: `cd django_placeholderProject`
+1. Clone this repository: `git clone https://github.com/carbon-ahs/`
+2. Navigate to the project directory: `cd `
 3. Create a virtual environment: `python -m venv .venv`
 4. Activate the virtual environment:
    - On Windows: `.\.venv\Scripts\activate`

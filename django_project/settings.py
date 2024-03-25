@@ -1,6 +1,5 @@
 """
 Django settings for django_project project.
-It is a boilerplate project.
 """
 
 # -*- coding: utf-8 -*-
@@ -41,6 +40,7 @@ INSTALLED_APPS = [
     # project apps
     "core",
     "accounts.apps.AccountsConfig",
+    "store",
 ]
 
 MIDDLEWARE = [
