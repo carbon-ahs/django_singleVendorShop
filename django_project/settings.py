@@ -22,6 +22,8 @@ ALLOWED_HOSTS = [
     "*",
 ]
 
+# cors configuration(risky way)
+CORS_ALLOW_ALL_ORIGINS = True
 
 # Application definition
 
