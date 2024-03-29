@@ -22,7 +22,7 @@ schema_view = get_schema_view(
 urlpatterns = [
     path("admin/", admin.site.urls),
     # path("", include("core.urls")),
-    path("api/v1/", include("store.urls")),
+    path("", include("store.urls")),
     # ------------------------
     # Debug toolbar
     path("__debug__/", include("debug_toolbar.urls")),
